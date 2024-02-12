@@ -2,13 +2,13 @@
 ## ProyectoIoT2024
 ## Integrantes:
 - Dalia del Carmen Mendiola Soto 1222100453
-- Adri
-- Citlali Anaid Limas Maya
+- Adrian Morales López 1222100454
+- Citlali Anaid Limas Maya 1222100683
 
 ## Carta de liberación del proyecto 
 - Dirigida al docente
 - Debe de expresar las funcionalidades que tiene el protyecto
-- Nombre de kos integrantes que participan en el proyecto
+- Nombre de los integrantes que participan en el proyecto
 - Es una imagen  png
 - Firmada por el empresario o docente ageno a la UTNG, agradececiendo la contribución de la UTNG
 - Hoja membretada (logo de la empresa, dirección y contacto)
@@ -20,6 +20,24 @@
 
 ## Liosta de software utilizadp
 | Id | Software | Versión | Tipo | 
-|-|-|-|-|
+|-   |-         |-        |-     |
 
 ## Visión del proyecto 
+
+## Conexiones 
+
+
+## Funcionalidades 
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable | 
+|-  |    -                 |-          |-           |-              |-            |
+
+## Prototipo en dibujo 
+- Coloca una imagen de tu proyecto al iniciar el desarrollo
+
+
+## Evidencias de funcionamiento 
+- Captura de pantalla de flujos de Node-Red
+- Captura de las pantallas del proyecto DASHBOARD y Pantalla de la ESP32
+- Video demostrativo de las funcionalidades del proyecto
+- Código fuente (PROHIBIDO PONER COMPRIMIDOS)
+- 
