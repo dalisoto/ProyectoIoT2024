@@ -24,8 +24,11 @@
 
 ## Visión del proyecto 
 
-## Conexiones 
 
+## Conexiones 
+- Imagenes de Wokwi, Fritzing, o de otro software que me permita mostrar las conexiones del circuito
+- Raspberry pi
+- ESP32
 
 ## Funcionalidades 
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable | 
