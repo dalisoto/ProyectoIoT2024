@@ -16,7 +16,8 @@
 
 | id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |-|-|-|-|-|-|
-| 1 | ESP32 | El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware. | ![img1p1](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true) | 2 | $280 |
+| 1 | ESP32 | El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware. | ![esp32](https://github.com/dalisoto/ProyectoIoT2024/blob/main/esp32.jpg?raw=true) | 2 | $280 |
+| 2 | Sensor de proximidad | Un sensor de proximidad es un transductor que detecta objetos o señales que se encuentran cerca del elemento sensor.  | ![img1p1](https://github.com/dalisoto/ProyectoIoT2024/blob/main/proximidad.jpg?raw=true) | 1 | $50 |
 
 ## Lista de software utilizadp
 | Id | Software | Versión | Tipo | 
