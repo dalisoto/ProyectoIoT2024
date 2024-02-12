@@ -1,5 +1,4 @@
-# Nombre del proyecto
-## ProyectoIoT2024
+# Talavera Caballero
 ## Integrantes:
 - Dalia del Carmen Mendiola Soto 1222100453
 - Adrian Morales López 1222100454
@@ -17,6 +16,7 @@
 
 | id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |-|-|-|-|-|-|
+| 1 | ESP32 | El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware. | ![img1p1](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true) | 2 | $280 |
 
 ## Liosta de software utilizadp
 | Id | Software | Versión | Tipo | 
